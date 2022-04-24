@@ -1,0 +1,27 @@
+{
+    "coinbase_pro": {
+        "my cool portfolio": {
+            "API_KEY": "9dd8761430bdf0ecb5c2f56eb6a40169",
+            "API_SECRET": "meuY//xcKmJ0vksGTGWSnIZyF70dqAPpxjOGrDl080sRM9fy8NbBl5Atm1JCRUBi1MWXOTVTacZ2ta2lSyvEvw==",
+            "API_PASS": "9fgx5tal4fr!"
+        }
+    },
+    "binance": {
+        "another cool portfolio": {
+            "API_KEY": "TyKRmyw9RaLACMQVIKm6w6f6meNBlDuVYFb76tuEsvvjAcErVCnNC64Sto2CfoqM",
+            "API_SECRET": "x2kIR7QrykYp0q6L7h8O9JNi8nkkDAPxctz7odc3yLhxB5FNqBLyvvANs6zRyd3g"
+        }
+    },
+    "alpaca": {
+        "another cool portfolio": {
+            "API_KEY": "AKHUSKCJ745D155DYXEE",
+            "API_SECRET": "KhHemInsocMThsRGU1mUKCQbqeZDR8APjNVJz4Fh"
+        }
+    },
+    "oanda": {
+        "oanda test portfolio": {
+            "ACCOUNT_ID": "101-001-20936526-001",
+            "PERSONAL_ACCESS_TOKEN": "f7b8c7cd103855088c6625090a7bacd4-af4599d448d52d0606de10cb25be9d1"
+        }
+    }
+}
